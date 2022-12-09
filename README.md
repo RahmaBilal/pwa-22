@@ -57,7 +57,7 @@ The following image shows the application's IndexedDB storage:
 
 ## Links
 
-Deployed URL: https://pure-badlands-50243.herokuapp.com
+Deployed URL: https://still-tundra-66311.herokuapp.com
 <br>
 GitHub URL: https://github.com/RahmaBilal/pwa-22
 
