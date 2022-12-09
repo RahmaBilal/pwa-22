@@ -6,9 +6,11 @@ For this challenge, I built a text editor that runs in the browser. This app wil
 
 
 ## Table of Contents
+- [Summary](#summary)
 - [Description](#description)
 - [User Story](#user-story)
-- [Demo](#Demo)
+- [Demo](#demo)
+- [Links](#links)
 - [Questions](#questions)
 
 
@@ -42,6 +44,15 @@ The following image shows the application's IndexedDB storage:
 
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
+<img width="1440" alt="Screenshot 2022-12-09 at 03 06 31" src="https://user-images.githubusercontent.com/108250116/206690110-7ee5c577-9bc8-40ec-ad15-6c47c656f5fa.png">
+
+<img width="1440" alt="Screenshot 2022-12-09 at 03 18 23" src="https://user-images.githubusercontent.com/108250116/206690200-eb69e173-cf05-4c94-84bd-02b6cdf89e28.png">
+
+
+## Links
+Deployed URL: https://pure-badlands-50243.herokuapp.com
+<br>
+GitHub URL: https://github.com/RahmaBilal/pwa-22
 
 ## Questions
 If you have any queries about this task or would like to contribute to it, then don't hesitate to contact me on: rahma.bilal@gmail.com. My GitHub is: https://github.com/RahmaBilal
